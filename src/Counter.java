@@ -10,8 +10,8 @@ public class Counter {
         return count;
     }
 
-    public int increment() {
-        return count++;
+    public void increment() {
+        count++;
 
     }
 
